@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 ### Running Application on iPhone 11
-<img src="https://media.giphy.com/media/twszHN1JqR12DgO9MZ/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/79fzoLImEMxdS5e9yz/giphy.gif"><br>
 
 ### Running Application on iPhone SE
 <img src="https://media.giphy.com/media/M5DB3UVTfcjZHgH3jf/giphy.gif" width=250><br>
@@ -30,4 +30,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://media.giphy.com/media/zDzeyq6EyhxangLojw/giphy.gif" width=250><br>
 
 ### Notes
-The podfile was at times difficult to configure as I ran into an issue where my app was unable to load the contents of the file list. I have to remove the podfile and insert the reference to the API again. My directory also became corrupted, so I had to redo the assignment. This may be rectified if I configure source control and the github repository properly before starting the project.
+I have included some tests of the application on different devices to demonstrate the auto-layout features. The podfile was at times difficult to configure as I ran into an issue where my app was unable to load the contents of the file list. I had to remove the podfile and insert the reference to the API again. 
