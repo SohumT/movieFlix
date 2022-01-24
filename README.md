@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 ### Running Application on iPhone 11
-<img src="https://media.giphy.com/media/79fzoLImEMxdS5e9yz/giphy.gif"><br>
+<img src="https://media.giphy.com/media/5inm8n82zSWJx79sTR/giphy.gif"><br>
 
 ### Running Application on iPhone SE
 <img src="https://media.giphy.com/media/M5DB3UVTfcjZHgH3jf/giphy.gif" width=250><br>
