@@ -30,4 +30,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://media.giphy.com/media/zDzeyq6EyhxangLojw/giphy.gif" width=250><br>
 
 ### Notes
-The podfile was at times difficult to configure as I ran into an issue where my app was unable to load the contents of the file list. I have to remove the podfile and insert the reference to the API again.
+The podfile was at times difficult to configure as I ran into an issue where my app was unable to load the contents of the file list. I have to remove the podfile and insert the reference to the API again. My directory also became corrupted, so I had to redo the assignment. This may be rectified if I configure source control and the github repository properly before starting the project.
